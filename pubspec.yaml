@@ -1,11 +1,11 @@
 name: hop_unittest
-version: 0.1.0+2
+version: 0.1.0+3
 author: Kevin Moore <kevmoo@google.com>
 description: Hop task for running unit tests based on
 homepage: https://github.com/kevmoo/hop_unittest
 environment:
   sdk: '>=1.0.0 <2.0.0'
 dependencies:
-  args: '>=0.11.0 <0.13.0'
+  args: '>=0.11.0 <0.14.0'
   hop: '>=0.30.0 <0.32.0'
   unittest: '>=0.11.0 <0.12.0'
